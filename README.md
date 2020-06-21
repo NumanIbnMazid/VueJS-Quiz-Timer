@@ -1,4 +1,4 @@
-# Quiz app created using Vue
+# Quiz app With Timer created using Vue
 
 # To run app
 ## Install dependencies
@@ -21,6 +21,4 @@
 - Loader component that displays loading during question load
 - Register component
 - Routing 
-
-# Demo video
-``` https://youtu.be/s7f4xOvEoTU ```
+- Quiz Timer
